@@ -1,0 +1,7 @@
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\indeksNumarasi\indeksNumarasi\bin\Debug\indeksNumarasi.exe.config
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\indeksNumarasi\indeksNumarasi\bin\Debug\indeksNumarasi.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\indeksNumarasi\indeksNumarasi\bin\Debug\indeksNumarasi.pdb
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\indeksNumarasi\indeksNumarasi\obj\Debug\indeksNumarasi.csprojAssemblyReference.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\indeksNumarasi\indeksNumarasi\obj\Debug\indeksNumarasi.csproj.CoreCompileInputs.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\indeksNumarasi\indeksNumarasi\obj\Debug\indeksNumarasi.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\indeksNumarasi\indeksNumarasi\obj\Debug\indeksNumarasi.pdb
